@@ -8,12 +8,12 @@
 <!doctype html>
 <html lang="pt-br">
 	<head>
-    	<title>sickmindz ~ </title>
+    	<title>sickmindz</title>
     	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     	<meta charset="UTF-8">
 		  <meta name="author" content="Sickmindz">
-		  <meta name="keywords" content="sickmindz thoughts pensamentos frases fics letras historias">
-		  <meta name="description" content="Sickmindz">
+		  <meta name="keywords" content="sickmindz thoughts pensamentos frases fics letras historias rimas prosa poesia">
+		  <meta name="description" content="O que é ? Uma rede com o intuito de englobar os seus mais diversos colapsos cotidianos. Ou seja, qualquer ideia, frase, história, citação, romance, angústia, vontade. Tudo aquilo que você gostaria de guardar para ler depois, porém sem saber onde. Aqui é o seu lugar.">
 
     	<link rel="stylesheet" href="css/bootstrap-v2.css" />	
       <link rel="stylesheet" href="css/bootstrap-responsive.css" />  

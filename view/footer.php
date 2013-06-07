@@ -1,7 +1,7 @@
 		<hr>
 		
 		<div class="footer">
-			<p>&copy; Sickmindz <?php echo date('Y'); ?></p>
+			<p>&copy; sickmindz <?php echo date('Y'); ?></p>
 		</div>
 
 	    </div> <!-- /.container -->

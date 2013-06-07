@@ -7,6 +7,9 @@ RewriteBase /
 RewriteCond %{HTTP_HOST} !^sickmindz\.com\.br$
 RewriteRule ^(.*) http://sickmindz.com.br/$1 [R=301,L]
 
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [QSA,L]
+
 <IfModule mod_rewrite.c>
 	# Specify search friendly URLs
 	RewriteRule ^contact$ /index.php?page=contact [L]

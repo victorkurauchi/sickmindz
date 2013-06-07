@@ -15,7 +15,7 @@
 		  <meta name="keywords" content="sickmindz thoughts pensamentos frases fics letras historias">
 		  <meta name="description" content="Sickmindz">
 
-    	<link rel="stylesheet" href="css/bootstrap.css" />	
+    	<link rel="stylesheet" href="css/bootstrap-v2.css" />	
       <link rel="stylesheet" href="css/bootstrap-responsive.css" />  
   	</head>
 
@@ -30,7 +30,7 @@
               				<ul class="nav">
                 				<li class="active"><a href="index.php">Início</a></li>
 				               	<li><a href="?page=project">Projetos</a></li>
-				                <li><a href="/blog" target="_blank">Blog</a></li>
+				                <li><a href="http://outtofmymindd.tumblr.com/" target="_blank">Blog</a></li>
 				                <li><a href="?page=about">Sobre</a></li>
 				                <li><a href="?page=contact">Contato</a></li>
               				</ul>

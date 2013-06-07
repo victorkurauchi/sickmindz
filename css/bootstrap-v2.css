@@ -233,7 +233,11 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  background: url('../img/wallpaper-heart4.png') no-repeat center center fixed;
+  /*background: url('../img/wallpaper-heart4.png') no-repeat center center fixed;*/
+  color: #333333;
+  background-color: #ffffff;
+  /* nicebackground by themaxdavis, all credits. */
+  background: url('http://themes.themaxdavis.com/application/themes/new/IMG/bg_body.gif') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
